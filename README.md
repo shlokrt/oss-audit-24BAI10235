@@ -1,11 +1,11 @@
 # OSS Audit — Git
 ### Open Source Software Capstone Project | VIT
 
-**Student:** Shlok Khanna
-**Roll Number:** 24BAI10235
-**Course:** Open Source Software (NGMC)  
-**Software Choosen:** Git  
-**License:** GPL v2  
+- **Student:** Shlok Khanna
+- **Roll Number:** 24BAI10235
+- **Course:** Open Source Software (NGMC)  
+- **Software Choosen:** Git  
+- **License:** GPL v2  
 
 ---
 
