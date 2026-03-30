@@ -11,7 +11,7 @@
 
 ## What is this?
 
-This is my capstone project for the Open Source Software course. I chose Git as my software because it's what I use on my day to day basis and it't the most interesting topic for me, the origin story of how Linus Torvalds built it in ten days after a company pulled the rug out from under the Linux kernel team is something worth exploring.
+This is my capstone project for the Open Source Software course. I chose Git as my software because it's what I use on my day to day basis and it't the most interesting topic for me, the origin story of how Linus Torvalds built it in ten days after a company pulled the rug out from under the Linux kernel team is something that still fascinates me and I find it worth exploring.
 
 
 ---
