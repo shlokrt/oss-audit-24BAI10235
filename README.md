@@ -140,6 +140,7 @@ Tested on Ubuntu 22.04. Should work fine on any Debian-based system and most RPM
 
 ```
 oss-audit-24BAI10235/
+├── LICENSE
 ├── README.md
 ├── Script1.sh
 ├── Script2.sh
